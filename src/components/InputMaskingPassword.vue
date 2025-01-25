@@ -20,8 +20,6 @@
       default: false,
     },
   });
-
-  console.log({props});
   
   
   const inputRef = ref<HTMLInputElement | null>(null);
