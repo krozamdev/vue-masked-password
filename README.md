@@ -1,12 +1,13 @@
 # @krozamdev/vue-masked-password
 
 A lightweight, customizable masked password input component for Vue3. This component allows you to securely mask password input fields and provides a customizable approach to controlling password visibility.
+
 The InputMaskingPassword component is a password input field that includes masking functionality (hiding characters as the user types) and allows toggling to show or hide the password. It uses the `@krozamdev/masked-password` library to apply the masking and supports custom mask characters. The component also handles password input changes by passing the raw (unmasked) value via a callback function.
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/@krozamdev/masked-password"><img src="https://img.shields.io/npm/v/@krozamdev/react-masked-password" alt="Latest Version"></a>
-  <a href="https://www.npmjs.com/package/@krozamdev/masked-password"><img src="https://img.shields.io/npm/dt/@krozamdev/react-masked-password" alt="Total Download"></a>
-  <a href="https://www.npmjs.com/package/@krozamdev/masked-password"><img src="https://img.shields.io/npm/l/@krozamdev/react-masked-password" alt="License"></a>
+  <a href="https://www.npmjs.com/package/@krozamdev/vue-masked-password"><img src="https://img.shields.io/npm/v/@krozamdev/vue-masked-password" alt="Latest Version"></a>
+  <a href="https://www.npmjs.com/package/@krozamdev/vue-masked-password"><img src="https://img.shields.io/npm/dt/@krozamdev/vue-masked-password" alt="Total Download"></a>
+  <a href="https://www.npmjs.com/package/@krozamdev/vue-masked-password"><img src="https://img.shields.io/npm/l/@krozamdev/vue-masked-password" alt="License"></a>
 </p>
 
 ## Compatible Packages
